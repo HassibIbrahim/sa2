@@ -78,3 +78,58 @@ h2{
      right: 35px;
    }
  }
+
+ #breakfasttab {
+   height: 160px;
+   background-image: url("../assets/foodtop/breakfast.jpg");
+   background-size: cover;
+   color: white;
+   font-size: 40px;
+   text-align: center;
+ }
+
+ #breakfasttab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+#lunchtab {
+  height: 160px;
+  background-image: url("../assets/foodtop/lunch.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#lunchtab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+
+#dinnertab {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#dinnertab:hover {
+  height: 160px;
+  background-image: url("../assets/foodtop/dinner2.jpg");
+  background-size: cover;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
