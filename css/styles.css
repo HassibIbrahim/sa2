@@ -159,3 +159,52 @@ h2{
   padding: 15%;
   text-align: center;
 }
+
+#section5background {
+  height: 350px;
+  background-image: url("../assets/backgrounds/foodsBg.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#section6background {
+  height: 300px;
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#section7background {
+  height: 200px;
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#section8background {
+  height: 300px;
+  background-color: red;
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#drinksimage {
+  height: 400px;
+  width: 300px;
+}
+
+#textfeedback {
+  color: black;
+}
+
+#sidebuttons {
+  float: left;
+  color: white;
+}
