@@ -79,16 +79,35 @@ h2{
    }
  }
 
- #breakfasttab {
-   height: 160px;
-   background-image: url("../assets/foodtop/breakfast.jpg");
-   background-size: cover;
-   color: white;
-   font-size: 40px;
-   text-align: center;
- }
+ #drinkshead {
+  text-align: right;
+}
 
- #breakfasttab:hover {
+#happyrow {
+  text-align: center;
+  padding: 2%;
+  color: black;
+
+}
+
+#partyrow {
+  text-align: center;
+  background-color: orange;
+  color: white;
+  background-size: cover;
+  height: 84px;
+}
+
+#breakfasttab {
+  height: 160px;
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#breakfasttab:hover {
   height: 160px;
   background-image: url("../assets/foodtop/dinner2.jpg");
   background-size: cover;
@@ -131,5 +150,12 @@ h2{
   background-size: cover;
   color: black;
   font-size: 40px;
+  text-align: center;
+}
+
+
+.labels {
+  color: white;
+  padding: 15%;
   text-align: center;
 }
